@@ -1,0 +1,14 @@
+/documentclass{article}
+
+/begin{document}
+
+/section{Interfaces & Interactivity - Proposal Structure}
+
+/subsection{Sound}
+
+The system will generate sound using the sound chip of the GameBoy
+
+To interact with the sound, the Midi protocol will be used. Since the GameBoy can't read and understand Midi messages, a translation unit is required amid the interface and the sound engine (i.e. an Arduino board).
+
+
+https://gbdev.gg8.se/wiki/articles/Gameboy_sound_hardware

@@ -1,0 +1,85 @@
+\documentclass[]{article}
+
+
+\author{Silvio Gregorini}
+\title{}
+\date{2019}
+
+% Ask if it's possible to use a two column layout
+\usepackage[utf8]{inputenc}
+\usepackage{csquotes}
+\usepackage[english]{babel}
+\usepackage[style=authoryear]{biblatex}
+\addbibresource{bibliography.bib}
+
+\begin{document}
+
+    In this module, you will develop an original interactive or reactive system
+ in which music or sound is a key component. Innovative and imaginative
+  methods of interaction by a participant should be explored, and this
+   could be for any relevant context (performance, composition, installation,
+    game, sound toy, etc).
+    
+During the first half of the module, you should consider and develop a 
+written proposal and plan for this project. Your proposal should be around 
+2000 words and address the following areas:
+
+\subparagraph[]{Section 1}
+    \textbf{Overall project aims and rationale Who is your project aimed at?}
+
+    \textbf{In what situation/context is it designed to be used?}
+    
+        \begin{itemize}
+        \item Live performance
+        \item Music production
+        \end{itemize}
+
+    \textbf{How and why will people engage with it?}
+
+        \begin{itemize}
+        \item It will be an easy and straightforward way of making chiptune music
+        \end{itemize}
+
+\subparagraph[]{Section 2}
+
+    \textbf{Details of project What are the key hardware/software elements in your
+    project?}
+
+        \begin{itemize}
+            \item Sound engine: GameBoy DMG-01 (1989)
+            \item New Hardware Interface
+        \end{itemize}
+
+    \textbf{What sounds will your system work with?}
+    The system will generate sound using the sound chip of the GameBoy
+
+    \textbf{What will the relationship be between user inputs and the sound 
+    parameters (mapping)?} 
+    To interact with the sound, the Midi protocol will be used.
+    Since the GameBoy can't read and understand Midi messages,
+    a translation unit is required amid the interface and the sound engine (i.e. an Arduino board).
+
+    \textbf{How does this mapping support your overall project aims?}
+
+\subparagraph[]{Section 3}
+
+    \textbf{Evidence of contextual awareness, research and reading What other similar
+    systems have you looked at? How has your idea developed from this research? }
+    
+    \textbf{What relevant concepts have fed into your design process?}
+
+\subparagraph[]{Section 4}
+    
+    \textbf{Plan for implementation What resources do you require to complete your
+    project? What specific tasks do you need to complete and by when?}
+
+    \textbf{This should be written using appropriate academic language with reference
+    to relevant texts/media using Harvard format.}
+
+    And this is my first resource: \cite{kevin}
+
+
+\printbibliography
+
+\end{document}
+
