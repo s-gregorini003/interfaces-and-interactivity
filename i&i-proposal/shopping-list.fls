@@ -42,20 +42,29 @@ INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
+OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.pdf
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
 OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
-OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.pdf
-INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
-INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Silvio\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.aux
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\shopping-list.out
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt10.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt10.pfb

@@ -2,17 +2,79 @@
 
 \usepackage{hyperref}
 
+\addtolength{\hoffset}{-0.5cm}
+\addtolength{\textwidth}{1cm}
+
 \begin{document}
 
-\begin{itemize}
-\item Arduino board (Every, if it supports TFlite library) 
-\item OLED display 
-        \url{https://www.amazon.co.uk/gp/product/B07G25D4MV/ref=ox_sc_act_title_1?smid=A2OYQMAUQB5NOO&psc=1}
-\item Front-lit LED strips 
-        \url{https://www.sparkfun.com/products/14730}
-\item Side-lit LED strips 
-        \url{https://www.sparkfun.com/products/14731}
+\renewcommand{\arraystretch}{1.5}
 
-\end{itemize}
+\part*{Part List}
+
+\section{Sequencer}
+
+\begin{tabular}{p{5cm} r p{8cm}}
+
+        \hline Arduino Nano 33 BLE \textbf{- TFLite compatible} \newline
+        Arduino Nano Every \textbf{- not TFLite compatible} & 1 \\ %(Every, if it supports TFlite library) 
+        \hline 2.42" OLED display & 1 & 
+        \url{https://www.amazon.co.uk/gp/product/B07G25D4MV/ref=ox_sc_act_title_1?smid=A2OYQMAUQB5NOO&psc=1} \\
+        \hline Front-lit LED strips & 1 & 
+        \url{https://www.sparkfun.com/products/14730} \\
+        \hline Side-lit LED strips & 1 & 
+        \url{https://www.sparkfun.com/products/14731} \\
+        \hline Push button & 24 \\
+        \hline EC11 digital rotary encoder & 1 & \url{https://www.amazon.co.uk/Gikfun-Encoder-Digital-Potentiometer-EK2045x4U/dp/B07FYHG2QZ/ref=sr_1_3_sspa?keywords=rotary+encoder&qid=1572185207&sr=8-3-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFJQ0dNTzRFWEszTjImZW5jcnlwdGVkSWQ9QTAxNjcwMTMyQUFDVDBFQjI5Wk5HJmVuY3J5cHRlZEFkSWQ9QTAzMDE0NTMzNEpHQ0VMQzJYWjM1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==} \\
+        \hline Single sided proto board & 1 \\
+        \hline 
+
+\end{tabular}
+
+\section{Mods}
+
+\subsection{Screen}
+
+\begin{tabular}{p{5cm} r}
+
+        \hline Screen backlight & 1 \\
+        \hline Bivert chip & 1 \\
+        \hline
+\end{tabular}
+
+\subsection{Sound}
+\begin{tabular}{p{5cm} r}
+
+        \hline PAM8403 digital amplifier & 1 \\
+        \hline Potentiometer & 1 \\
+        \hline 
+        
+\end{tabular}
+
+\subsection{Midi}
+
+\begin{tabular}{p{5cm} r}
+
+        \hline Arduino nano & 1 \\
+        \hline 6NI38 optocoupler chip & 1 \\
+        \hline 1N914 diode & 1 \\
+        \hline 220 $\Omega$ resistor & 2 \\
+        \hline 270 $\Omega$ resistor & 1 \\
+        \hline 2 $k\Omega$ resistor & 7 \\
+        \hline Push button & 1 \\
+        \hline 5 pin DIN socket & 2 \\
+        \hline DMG-04 game link cable & 1 \\
+        \hline LED & 6 \\
+        \hline
+
+\end{tabular}
+
+\subsection{Power}
+
+\begin{tabular}{p{5cm} r p{8cm}}
+
+        \hline Turnigy 2000mAh 1S 1C Lipo & 1 & \url{https://hobbyking.com/en_us/turnigy-2000mah-1s-1c-lipoly-w-2-pin-jst-ph-connector.html?wrh_pdp=7} \\
+        \hline 
+
+\end{tabular}
 
 \end{document}
