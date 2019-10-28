@@ -1,0 +1,65 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{kevin}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9457073624957e49fbf9041d17cd3581}{%
+           family={Kevin},
+           familyi={K\bibinitperiod},
+           given={Driscoll},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dbc1f1ea0360e7d5be5603e01e81a1db}{%
+           family={Joshua},
+           familyi={J\bibinitperiod},
+           given={Diaz},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b4793eeecaeac573afa02dd399f095b}
+      \strng{fullhash}{1b4793eeecaeac573afa02dd399f095b}
+      \strng{bibnamehash}{1b4793eeecaeac573afa02dd399f095b}
+      \strng{authorbibnamehash}{1b4793eeecaeac573afa02dd399f095b}
+      \strng{authornamehash}{1b4793eeecaeac573afa02dd399f095b}
+      \strng{authorfullhash}{1b4793eeecaeac573afa02dd399f095b}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Chiptune refers to a collection of related music production and performance practices sharing a history with video game soundtracks. The evolution of early chiptune music tells an alternate narrative about the hardware, software, and social practices of personal computing in the 1980s and 1990s. By digging into the interviews, text files, and dispersed ephemera that have made their way to the Web, we identify some of the common folk-historical threads among the commercial, noncommercial, and ambiguously commercial producers of chiptunes with an eye toward the present-day confusion surrounding the term chiptune. Using the language of affordances and constraints, we hope to avoid a technocratic view of the inventive and creative but nevertheless highly technical process of creating music on computer game hardware.}
+      \field{issn}{1941-2258}
+      \field{journaltitle}{Transformative Works and Cultures}
+      \field{title}{Endless loop: A brief history of chiptunes.}
+      \field{year}{2009}
+      \verb{urlraw}
+      \verb https://go.openathens.net/redirector/leedsmet.ac.uk?url=http%3a%2f%2fsearch.ebscohost.com%2flogin.aspx%3fdirect%3dtrue%26db%3dedsdoj%26AN%3dedsdoj.6fa83a706c4e474582b6c64280150ca7%26site%3deds-live%26scope%3dsite
+      \endverb
+      \verb{url}
+      \verb https://go.openathens.net/redirector/leedsmet.ac.uk?url=http%3a%2f%2fsearch.ebscohost.com%2flogin.aspx%3fdirect%3dtrue%26db%3dedsdoj%26AN%3dedsdoj.6fa83a706c4e474582b6c64280150ca7%26site%3deds-live%26scope%3dsite
+      \endverb
+      \keyw{Adaptation,BBS,Cracking,Demo scene,DJ,Game Boy,Gaming,Hacking,Music,Participatory culture,Personal computing,Piracy,Programming,Rave,Remix,Sampling,Sound synthesis,Subculture,Teenagers,Tracking,Video game,VJ,Youth,Communication. Mass media,P87-96}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
