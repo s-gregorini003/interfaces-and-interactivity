@@ -1,0 +1,57 @@
+PWD c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal
+INPUT C:\Users\Silvio\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.tex
+OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.log
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.def
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csquotes\csquotes.cfg
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-english\english.ldf
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux
+OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.pdf
+INPUT C:\Users\Silvio\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\bibliography.tex
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\bibliography.tex
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb

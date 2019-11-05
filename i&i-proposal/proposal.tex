@@ -9,8 +9,26 @@
 \usepackage[utf8]{inputenc}
 \usepackage{csquotes}
 \usepackage[english]{babel}
-\usepackage[style=authoryear]{biblatex}
-\addbibresource{bibliography.bib}
+%\usepackage[style=authoryear]{biblatex}
+%\addbibresource{bibliography.bib}
+
+\newcommand{\bibTitle}[1]{\emph{#1}}
+\newcommand{\bibYear}[1]{(#1)}
+\newcommand{\bibUrl}[1]{\textless#1\textgreater}
+\newcommand{\bibUrldate}[1]{[Accessed #1]}
+
+\newcommand{\citeInText}[2]{#1 (#2)}
+
+% Change appearance of numeric labels in citation call-outs
+\usepackage{cite}
+\renewcommand\citeleft{(}
+\renewcommand\citeright{)}
+
+% Change appearance of numeric labels in bibliography 
+\makeatletter
+\renewcommand{\@biblabel}[1]{}
+\makeatother
+
 
 \begin{document}
 
@@ -24,13 +42,50 @@ During the first half of the module, you should consider and develop a
 written proposal and plan for this project. Your proposal should be around 
 2000 words and address the following areas:
 
+
+%================================================================================
 %PUT NUMBERS ON PARAGRAPHS
 
-\section{Introduction}
+\section{Introduction} %DONE
+
+    The aim of this paper is to propose the design and production of an 
+    hardware synthesizer, starting from an existing digital sound engine.
+    In the sections that follow, it will be explained the background and the rationale 
+    behind the project, as well as the initial research undertaken.
+    Then, it will be depicted a "blueprint" of the product: the general concept, the 
+    architecture of the system -- both hardware and software -- and the production plan 
+    will be covered in detail.
+    In the last part the evaluation criteria will be set, in order to have a concrete measure
+    of the work outcomes.
 
 \section{Background and Motivation}
-    \subsection{Context} %name
+
+    This project has been shaped and will be realised keeping as a pivotal point the
+    \emph{chiptune} subculture and its principles. As will be discussed in the next paragraphs,
+    the product is conceived to be used by people already familiar with the environment and 
+    limitations of this musical style. Its purpose is to give users a different and more 
+    modern way to interact with a well-known set of sounds and synthesis capabilities.
+
+    \subsection{Pushing the Limits Using Contraints} %WIP
         \paragraph{Chiptune}
+        As stated by Collins et al. (2014 )\nocite{COLLINS2014} The term \emph{chiptune} refers to a style of electronic music where 
+        sounds are generated using Programmable Sound Generator (PSG) sound chips 
+        in vintage digital hardware, such as computers, video game consoles, arcade machines \ldots
+        
+        (also known as chiptunes, chip music or 8-bit music) is electronic
+music that uses the microchip-based audio hardware of early home computers
+and gaming consoles and repurposes it for artistic expression. Chiptune artists
+reinvent the technology found in old computers such as Commodore 64,
+Amiga and ZX Spectrum as well as in outdated video game consoles such as
+Nintendo Game Boy or Mega Drive/Genesis in order to create new music.
+The evolution of sound throughout the history of video games has been
+based on the technological capabilities of the computers or game consoles
+in which the game are played (McDonald, 2004). As with the visual side,
+the history of video game music is highlighted by the type of technology
+available at that time. As a result, we have the 8-bit, 16-bit, 64-bit, and the
+128-bit eras. The first video games lacked a sound component, included only
+a brief theme, a few sound effects or were limited to simple melodies by early
+sound synthesizer technology.
         \paragraph{Game Boy DMG-001 and LSDJ} %name
     \subsection{Rationale} %name
 
@@ -56,6 +111,13 @@ written proposal and plan for this project. Your proposal should be around
     \subsection{Evaluation Criteria}
 
 \section{Conclusions}
+
+
+\input{bibliography.tex}
+
+
+%================================================================================
+
 
 \subparagraph[]{Section 1}
     \textbf{Overall project aims and rationale Who is your project aimed at?}
@@ -109,10 +171,10 @@ written proposal and plan for this project. Your proposal should be around
     \textbf{This should be written using appropriate academic language with reference
     to relevant texts/media using Harvard format.}
 
-    And this is my first resource: \cite{kevin}
+%    And this is my first resource: \cite{kevin}
 
 
-\printbibliography
+%\printbibliography
 
 \end{document}
 
