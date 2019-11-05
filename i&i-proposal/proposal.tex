@@ -9,6 +9,8 @@
 \usepackage[utf8]{inputenc}
 \usepackage{csquotes}
 \usepackage[english]{babel}
+\usepackage{xcolor}
+\usepackage[urlbordercolor=white, linkbordercolor=white]{hyperref}
 %\usepackage[style=authoryear]{biblatex}
 %\addbibresource{bibliography.bib}
 
@@ -29,6 +31,7 @@
 \renewcommand{\@biblabel}[1]{}
 \makeatother
 
+%\renewcommand{\urlbordercolor}{0} {0} {0}
 
 \begin{document}
 
@@ -68,25 +71,37 @@ written proposal and plan for this project. Your proposal should be around
 
     \subsection{Pushing the Limits Using Contraints} %WIP
         \paragraph{Chiptune}
-        As stated by Collins et al. (2014 )\nocite{COLLINS2014} The term \emph{chiptune} refers to a style of electronic music where 
-        sounds are generated using Programmable Sound Generator (PSG) sound chips 
-        in vintage digital hardware, such as computers, video game consoles, arcade machines \ldots
+        As stated by Collins et al. (2014 )\nocite{COLLINS2014} the term \emph{chiptune} has multiple 
+        definitions. Also known as \emph{chip music} or \emph{8-bit music}, it derives from the sound chips that,
+         in the first generation of computers and gaming consoles,
+         were used to balance the processing power of generating sound effects and music from the
+        CPU. In its strictiest meaning, chiptune is used to refer to music created entirely from the original, vintage audio 
+        chips. Nevertheless, modifications that do not alter the nature of the sound produced are allowed.\\
+        The broadest definition is more related to the aesthetics of the sound, rather then to the source
+        generating it. The entire subculture which gravitates around the foundations and features of chip
+        music can be called \emph{chiptune} too. Anyway, this paper and the related project will try to stick
+        to the strictiest definition of the word, in order to create a product able to maintain the sound fidelity
+        of the old processors.
+
+        \paragraph{DMG-001 and trackers}
+        In particular, the following study focuses on the Nintendo DMG-001 from 1989, known with the commercial 
+        name of \emph{Game Boy}, which is supposedly one of the most popular tools for the production of chip music.
+        From the official datasheet (Nintendo, 2019)\nocite{NINTENDO2019} portable console runs on a custom 
+        \emph{Sharp LR35902} 8-bit CPU, similar to the \emph{Zilog Z80}\footnote{} 
+        and has five audio channels:\\[10pt]
         
-        (also known as chiptunes, chip music or 8-bit music) is electronic
-music that uses the microchip-based audio hardware of early home computers
-and gaming consoles and repurposes it for artistic expression. Chiptune artists
-reinvent the technology found in old computers such as Commodore 64,
-Amiga and ZX Spectrum as well as in outdated video game consoles such as
-Nintendo Game Boy or Mega Drive/Genesis in order to create new music.
-The evolution of sound throughout the history of video games has been
-based on the technological capabilities of the computers or game consoles
-in which the game are played (McDonald, 2004). As with the visual side,
-the history of video game music is highlighted by the type of technology
-available at that time. As a result, we have the 8-bit, 16-bit, 64-bit, and the
-128-bit eras. The first video games lacked a sound component, included only
-a brief theme, a few sound effects or were limited to simple melodies by early
-sound synthesizer technology.
-        \paragraph{Game Boy DMG-001 and LSDJ} %name
+
+        \begin{tabular}{l l l}
+            \hline
+            \textbf{Channel} & \textbf{Type} & \textbf{Features}\\
+            \hline \\[-6pt]
+            1 & Quadrangular\footnote{Also known as \emph{pulse wave} or \emph{square wave}} &
+            
+        \end{tabular}
+        
+        \nocite{MARQUEZ2014}
+
+
     \subsection{Rationale} %name
 
 
