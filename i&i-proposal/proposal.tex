@@ -10,7 +10,8 @@
 \usepackage{csquotes}
 \usepackage[english]{babel}
 \usepackage{xcolor}
-\usepackage[urlbordercolor=white, linkbordercolor=white]{hyperref}
+\usepackage[urlbordercolor=white, linkbordercolor=white, citebordercolor=white]{hyperref}
+\usepackage{graphicx}
 %\usepackage[style=authoryear]{biblatex}
 %\addbibresource{bibliography.bib}
 
@@ -35,17 +36,6 @@
 
 \begin{document}
 
-    In this module, you will develop an original interactive or reactive system
- in which music or sound is a key component. Innovative and imaginative
-  methods of interaction by a participant should be explored, and this
-   could be for any relevant context (performance, composition, installation,
-    game, sound toy, etc).
-    
-During the first half of the module, you should consider and develop a 
-written proposal and plan for this project. Your proposal should be around 
-2000 words and address the following areas:
-
-
 %================================================================================
 %PUT NUMBERS ON PARAGRAPHS
 
@@ -69,8 +59,8 @@ written proposal and plan for this project. Your proposal should be around
     limitations of this musical style. Its purpose is to give users a different and more 
     modern way to interact with a well-known set of sounds and synthesis capabilities.
 
-    \subsection{Pushing the Limits Using Contraints} %WIP
-        \paragraph{Chiptune}
+    \subsection{Pushing the Limits Using Contraints} %_______________________________________________________________________________________________________CITE TEDX DAN BEHERENS
+        \paragraph{Chiptune} %DONE
         As stated by Collins et al. (2014 )\nocite{COLLINS2014} the term \emph{chiptune} has multiple 
         definitions. Also known as \emph{chip music} or \emph{8-bit music}, it derives from the sound chips that,
          in the first generation of computers and gaming consoles,
@@ -83,7 +73,7 @@ written proposal and plan for this project. Your proposal should be around
         to the strictiest definition of the word, in order to create a product able to maintain the sound fidelity
         of the old processors.
 
-        \paragraph{DMG-001 and trackers}
+        \paragraph{DMG-001 and trackers} %DONE
         In particular, the following study focuses on the Nintendo DMG-001 from 1989, known with the commercial 
         name of \emph{Game Boy}, which is supposedly one of the most popular tools for the production of chip music.
         From the official datasheet (Nintendo, 2019)\nocite{NINTENDO2019} portable console runs on a custom 
@@ -113,17 +103,47 @@ written proposal and plan for this project. Your proposal should be around
             &   &      - Frequency register from C2 upwards\\
             \hline
             4 & Pseudo-random noise & - White and brown noise\\
-            \hline
+            \hline \\
         \end{tabular}
         \footnotetext{Also known as \emph{pulse wave} or \emph{square wave}.}
         
         \nocite{MARQUEZ2014}
 
+        Back in the analog era (i.e. before the first DAWs were created and deployed), the tools to compose and produce music on digital 
+        computers and consoles were the \emph{music trackers}. They can be defined as precursors of the modern 
+        music production softwares: notes, parameters, effects and other commands, in this type of vertical sequencer, are given
+        as letters, numbers or hexadecimal digits into a fixed, time-slotted grid. Fig.\ref{fig:lsdj} shows an
+        example of a tracker interface: \emph{Little Sound Dj}, the most popular music editor for 
+        Game Boy consoles. The implementation of this tracker, along with other softwares like \emph{nanoloop} 
+        and \emph{mGB}, will be considered in the design of the proposed product. \\
 
-    \subsection{Rationale} %name
+        \begin{figure}[h]
+            \centering
+            \includegraphics[width=.5\textwidth]{PLACEHOLDER.jpg} %_______________________________________________________________________________________________________LSDJ PICTURE
+            \caption{\emph{Song} Screen on the popular LSDJ tracker for Game Boy \cite{KOTLINSKI2007}}
+            \label{fig:lsdj}
+        \end{figure}
 
 
-\section{Name of the Project} %name
+    \subsection{Rationale}  %_______________________________________________________________________________________________________NAME
+            Despite being one of the cardinal points in the \emph{Chiptune} subculture, the idea of 
+            maintaning the limitations given by the hardware is too general and vague, and a distinction is 
+            necessary. During the composition and execution of 8-bit music, two main types of constraints can be addressed:
+
+            \begin{itemize}
+            \item \textbf{Processing capabilities} -- The true and interesting challenge, i.e. to try to push the 
+                    hardware CPU to its limit, creating complex sounds and tracks on a level that was considered 
+                    unachievable, given the limited digital resources.
+            \item \textbf{User interface} -- Even though someone could disagree with this opinion, from a practical view, limitations in the UI
+                    can be considered nothing more than an obstacle in the production process. If we take the DMG-001 as an example, being constrained
+                    by a D-pad and four push buttons has nothing to share with the concept of taking out deep and articulated music from a 4.19 MHz CPU with 8 KB of RAM.
+            \end{itemize}
+
+            So, it is clear that a limitation in the UI is unnecessary and -- most of the time -- unwanted. For this reasons, the aim 
+            behind the proposed product is to renew the link between chiptune musicians and instruments, expanding the interactive capabilities of the Game Boy, 
+            without perverting the characteristic soundscape and the core aspects of its composition process.
+
+\section{Name of the Project}  %_______________________________________________________________________________________________________NAME
     \subsection{Concept}
     \subsection{System Architecture}
         \paragraph{Hardware}
@@ -151,6 +171,15 @@ written proposal and plan for this project. Your proposal should be around
 
 %================================================================================
 
+In this module, you will develop an original interactive or reactive system
+in which music or sound is a key component. Innovative and imaginative
+ methods of interaction by a participant should be explored, and this
+  could be for any relevant context (performance, composition, installation,
+   game, sound toy, etc).
+   
+During the first half of the module, you should consider and develop a 
+written proposal and plan for this project. Your proposal should be around 
+2000 words and address the following areas:
 
 \subparagraph[]{Section 1}
     \textbf{Overall project aims and rationale Who is your project aimed at?}
