@@ -12,6 +12,8 @@
 \usepackage{xcolor}
 \usepackage[urlbordercolor=white, linkbordercolor=white, citebordercolor=white]{hyperref}
 \usepackage{graphicx}
+\usepackage{pdflscape}
+\usepackage{appendix}
 %\usepackage[style=authoryear]{biblatex}
 %\addbibresource{bibliography.bib}
 
@@ -141,10 +143,48 @@
 
             So, it is clear that a limitation in the UI is unnecessary and -- most of the time -- unwanted. For this reasons, the aim 
             behind the proposed product is to renew the link between chiptune musicians and instruments, expanding the interactive capabilities of the Game Boy, 
-            without perverting the characteristic soundscape and the core aspects of its composition process.
+            without perverting the characteristic soundscape and the core aspects of its composition process.\\
+            The product is aimed at whoever wants to use a Nintendo Game Boy as a tool to create music rather than as a videogame console: music producers,
+            musicians, beginners and experts will have the chance to interface more easily with the 8-bit music culture, both in 
+            composition and live performance contexts.
 
 \section{Name of the Project}  %_______________________________________________________________________________________________________NAME
     \subsection{Concept}
+            As previously introduced, the core idea behind the product is to create a new and modern interface to mediate between the 
+            sound engine and the consumer. The key features which can be outlined from the first design stage are the following, in order of importance:
+
+            \begin{enumerate}
+                \item \textbf{Ease of use} -- The main feature of the product. A modern, straightforward interface to interact with the system. The preliminary
+                        idea is to create a sequencer-like product, trying to mimic with the hardware what trackers like LSDJ do via software.
+                \item \textbf{Portability} -- In order to keep the essence of the Game Boy, which is the most iconic portable console, the product must be small, 
+                        easy to carry, and battery powered.
+                \item \textbf{Compatibility} -- If possible, the choice is to realise a product able to connect and share data with other digital musical instruments, 
+                        to expand the boundaries of chiptune music outside its strictiest definition.
+                \item \textbf{Aesthetics} -- Although not mandatory, appearance is important. Therefore, attention must also be paid 
+                        to the aesthetic part of the design, rather than focusing only on functionality.
+            \end{enumerate}
+            
+            As it could be guessed by the above list, during the initial design stage it became more and more obviuos the similarity of this potential product with a 
+            type of musical tools already on the market: the \emph{Korg Volca Series}. On Korg website (2019), the volca series is presented as follows: \\
+            \begin{quote}
+                ``This series includes a variety of units such as synthesizers, drum machines, and bass synths that 
+                all play a specialized role in your performance or studio setup. Users can perform with multiple units using the tempo sync 
+                included on all volcas. The compact design of the Korg volca series 
+                is packed with limitless possibilities.'' \cite{KORG2019}
+            \end{quote}
+
+            Therefore, the decision was taken to use this series of synthesizers as a principal inspiration for what 
+            concerns dimensions, functionalities and overall appearance of the final product. To better understand the 
+            components and the layout of the above mentioned synthesizers, in Appendix A can be found the assembly sketch of a Korg Volca Bass.
+
+            \begin{figure}[h]
+                \centering
+                \includegraphics[width=\textwidth]{korg-volca-bass.png}
+                \caption{Front view of a \emph{Korg Volca Bass} \cite{KORG2013}.}
+                \label{fig:volcabass}
+                
+            \end{figure}
+
     \subsection{System Architecture}
         \paragraph{Hardware}
             \subparagraph{Controls}
@@ -164,6 +204,17 @@
     \subsection{Evaluation Criteria}
 
 \section{Conclusions}
+
+\begin{appendices}
+    \appendix
+    \begin{landscape}
+        \begin{figure}[h!]
+            \appendixname{Appendix A}
+            \includegraphics[width=\textwidth]{PLACEHOLDER.jpg}
+        \end{figure}
+    \end{landscape}
+\end{appendices}
+
 
 
 \input{bibliography.tex}
