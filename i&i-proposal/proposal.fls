@@ -93,25 +93,30 @@ OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out
 OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out
-INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Silvio\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.toc
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.toc
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+OUTPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.toc
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\Silvio\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti8.tfm
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\lsdj-song-screen.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\lsdj-song-screen.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\lsdj-song-screen.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\lsdj-song-screen.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\lsdj-song-screen.png
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass.png
@@ -119,13 +124,41 @@ INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass.png
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass.png
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass.png
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
-INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\PLACEHOLDER.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001-front-view.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001-front-view.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001-front-view.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001-front-view.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001-front-view.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\implementation-diagram.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\implementation-diagram.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\implementation-diagram.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\implementation-diagram.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\implementation-diagram.png
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\bibliography.tex
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\bibliography.tex
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omlcmr.fd
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt10.tfm
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass-assembly-sketch.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass-assembly-sketch.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass-assembly-sketch.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass-assembly-sketch.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\korg-volca-bass-assembly-sketch.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-boy-draw-page-001.jpg
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\timescale.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\timescale.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\timescale.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\timescale.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\timescale.png
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-gb-render.JPG
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-gb-render.JPG
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-gb-render.JPG
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-gb-render.JPG
+INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\volca-gb-render.JPG
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out
 INPUT c:\Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out
@@ -137,6 +170,8 @@ INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfo
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb

@@ -1,0 +1,22 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}% 
+\contentsline {section}{\numberline {2}Background and Motivation}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Pushing the Limits Using Contraints}{2}{subsection.2.1}% 
+\contentsline {paragraph}{Chiptune}{2}{section*.2}% 
+\contentsline {paragraph}{DMG-001 and trackers}{2}{section*.3}% 
+\contentsline {subsection}{\numberline {2.2}Rationale: Conscious Limitations}{3}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}Project VolcaBoy}{4}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Concept}{4}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}System Architecture}{5}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Hardware}{5}{subsubsection.3.2.1}% 
+\contentsline {paragraph}{Controls}{5}{section*.4}% 
+\contentsline {paragraph}{User Interface}{6}{section*.5}% 
+\contentsline {subsubsection}{\numberline {3.2.2}DMG-001 Mods}{7}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Embedded Software}{8}{subsubsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.3}Production}{9}{subsection.3.3}% 
+\contentsline {paragraph}{Resources}{9}{section*.6}% 
+\contentsline {paragraph}{Schedule}{9}{section*.7}% 
+\contentsline {paragraph}{Health and Safety}{10}{section*.8}% 
+\contentsline {section}{\numberline {4}Conclusions}{10}{section.4}% 
+\contentsline {paragraph}{Minimum Viable Product}{10}{section*.9}% 
+\contentsline {paragraph}{Evaluation Criteria}{10}{section*.10}% 

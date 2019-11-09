@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.23)  7 NOV 2019 12:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.23)  9 NOV 2019 11:15
 entering extended mode
 **"c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/proposal.tex"
 ("c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/proposal.tex"
@@ -205,7 +205,9 @@ Package: appendix 2009/09/02 v1.2b extra appendix facilities
 \c@@pps=\count107
 \c@@ppsavesec=\count108
 \c@@ppsaveapp=\count109
-) ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 25.
+ ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
@@ -217,20 +219,20 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux")
 \openout1 = `proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
-LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
+LaTeX Font Info:    ... okay on input line 46.
  ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count110
@@ -255,7 +257,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring OFF on input line 39.
+Package hyperref Info: Link coloring ON on input line 46.
  ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
  ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
@@ -263,139 +265,235 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count116
 )
-LaTeX Info: Redefining \ref on input line 39.
-LaTeX Info: Redefining \pageref on input line 39.
-LaTeX Info: Redefining \nameref on input line 39.
+LaTeX Info: Redefining \ref on input line 46.
+LaTeX Info: Redefining \pageref on input line 46.
+LaTeX Info: Redefining \nameref on input line 46.
  ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out") ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.out")
 \@outlinefile=\write3
 \openout3 = `proposal.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 82.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 83.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 83.
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--88
+Underfull \hbox (badness 10000) in paragraph at lines 53--56
 
  []
 
 [1
 
-{C:/Users/Silvio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Overfull \hbox (6.25023pt too wide) in paragraph at lines 90--111
-[][]
+{C:/Users/Silvio/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 4.
+)
+\tf@toc=\write4
+\openout4 = `proposal.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.67 \section
+             {Introduction} %DONE [1]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 106.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 106.
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--111
+
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--121
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 140--147
 
  []
 
-<PLACEHOLDER.jpg, id=70, 227.6505pt x 325.215pt>
-File: PLACEHOLDER.jpg Graphic file (type jpg)
-<use PLACEHOLDER.jpg>
-Package pdftex.def Info: PLACEHOLDER.jpg  used on input line 124.
-(pdftex.def)             Requested size: 172.5pt x 246.4365pt.
+<lsdj-song-screen.png, id=91, 120.45pt x 108.405pt>
+File: lsdj-song-screen.png Graphic file (type png)
+<use lsdj-song-screen.png>
+Package pdftex.def Info: lsdj-song-screen.png  used on input line 150.
+(pdftex.def)             Requested size: 172.5pt x 155.26442pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 136.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 162.
 ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 136.
- [2] [3 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/PLACEHOLDER.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 167--169
-
- []
-
-<korg-volca-bass.png, id=89, 876.27374pt x 522.45187pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 162.
+ [3] [4 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/lsdj-song-screen.png>]
+<korg-volca-bass.png, id=111, 876.27374pt x 522.45187pt>
 File: korg-volca-bass.png Graphic file (type png)
 <use korg-volca-bass.png>
-Package pdftex.def Info: korg-volca-bass.png  used on input line 182.
+Package pdftex.def Info: korg-volca-bass.png  used on input line 208.
 (pdftex.def)             Requested size: 345.0pt x 205.70056pt.
+
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4] [5 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/korg-volca-bass.png>] [6]
-File: PLACEHOLDER.jpg Graphic file (type jpg)
-<use PLACEHOLDER.jpg>
-Package pdftex.def Info: PLACEHOLDER.jpg  used on input line 213.
-(pdftex.def)             Requested size: 345.0pt x 492.90773pt.
+[5] [6 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/korg-volca-bass.png>]
+<volca-boy-draw-page-001-front-view.jpg, id=139, 313.17pt x 198.5016pt>
+File: volca-boy-draw-page-001-front-view.jpg Graphic file (type jpg)
+<use volca-boy-draw-page-001-front-view.jpg>
+Package pdftex.def Info: volca-boy-draw-page-001-front-view.jpg  used on input line 249.
+(pdftex.def)             Requested size: 313.16922pt x 198.50111pt.
+ [7 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/volca-boy-draw-page-001-front-view.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 280--283
 
+ []
 
-LaTeX Warning: Float too large for page by 149.85217pt on input line 214.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7] ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\bibliography.tex"
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 21.
+[8]
+<implementation-diagram.png, id=155, 814.04124pt x 613.29124pt>
+File: implementation-diagram.png Graphic file (type png)
+<use implementation-diagram.png>
+Package pdftex.def Info: implementation-diagram.png  used on input line 310.
+(pdftex.def)             Requested size: 345.0pt x 259.92007pt.
+ [9 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/implementation-diagram.png>] [10] [11] ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\bibliography.tex"
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 15.
  ("C:\Users\Silvio\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 21.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 15.
 
-Underfull \hbox (badness 1270) in paragraph at lines 16--23
-\OT1/cmtt/m/n/10 uploads / 2014 / 04 / GAME _ 3 _ Subcultures _ Journal _ Marquez . pdf$[]\OML/cmm/m/it/10 > \OT1/cmr/m/n/10 [Ac-cessed
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--32
-\OT1/cmtt/m/n/10 co . uk / Support / Game-[]Boy-[]Pocket-[]Color / Product-[]information /
- []
-
-
-Underfull \hbox (badness 5189) in paragraph at lines 26--32
-\OT1/cmtt/m/n/10 Technical-[]data / Technical-[]data-[]619585 . html$[]\OML/cmm/m/it/10 > \OT1/cmr/m/n/10 [Ac-cessed 20 Oc-to-ber
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--41
-\OT1/cmtt/m/n/10 / / web . archive . org / web / 20080221140919 / http : / / 8bitcollective . com /
- []
-
-
-Underfull \hbox (badness 1616) in paragraph at lines 43--49
+Underfull \hbox (badness 1616) in paragraph at lines 50--56
 []\OT1/cmr/m/n/10 Kotlinski, J. (2007) \OT1/cmr/m/it/10 Lit-tle Sound Dj v3.7.4 - Op-er-at-ing Man-ual \OT1/cmr/m/n/10 [On-
  []
 
 
-Underfull \hbox (badness 3168) in paragraph at lines 43--49
-\OT1/cmr/m/n/10 line]. Avail-able from: \OML/cmm/m/it/10 <[]$\OT1/cmtt/m/n/10 https : / / www . littlesounddj . com / lsd / latest /
+Underfull \hbox (badness 3168) in paragraph at lines 50--56
+\OT1/cmr/m/n/10 line]. Avail-able from: \OML/cmm/m/it/10 <[][]$\OT1/cmtt/m/n/10 https : / / www . littlesounddj . com / lsd / latest /
  []
 
-) [8
+
+Underfull \hbox (badness 1270) in paragraph at lines 58--65
+\OT1/cmtt/m/n/10 uploads / 2014 / 04 / GAME _ 3 _ Subcultures _ Journal _ Marquez . pdf$[][]\OML/cmm/m/it/10 > \OT1/cmr/m/n/10 [Ac-cessed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
+\OT1/cmtt/m/n/10 co . uk / Support / Game-[]Boy-[]Pocket-[]Color / Product-[]information /
+ []
+
+
+Underfull \hbox (badness 5189) in paragraph at lines 74--80
+\OT1/cmtt/m/n/10 Technical-[]data / Technical-[]data-[]619585 . html$[][]\OML/cmm/m/it/10 > \OT1/cmr/m/n/10 [Ac-cessed 20 Oc-to-ber
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 129--135
+\OT1/cmtt/m/n/10 / / web . archive . org / web / 20080221140919 / http : / / 8bitcollective . com /
+ []
+
+) [13]
+<korg-volca-bass-assembly-sketch.png, id=233, 1023.07219pt x 721.94719pt>
+File: korg-volca-bass-assembly-sketch.png Graphic file (type png)
+<use korg-volca-bass-assembly-sketch.png>
+Package pdftex.def Info: korg-volca-bass-assembly-sketch.png  used on input line 392.
+(pdftex.def)             Requested size: 550.0pt x 388.11617pt.
+
+
+LaTeX Warning: Float too large for page by 77.50505pt on input line 394.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/korg-volca-bass-assembly-sketch.png>]
+<volca-boy-draw-page-001.jpg, id=240, 597.432pt x 845.0772pt>
+File: volca-boy-draw-page-001.jpg Graphic file (type jpg)
+<use volca-boy-draw-page-001.jpg>
+Package pdftex.def Info: volca-boy-draw-page-001.jpg  used on input line 403.
+(pdftex.def)             Requested size: 379.5021pt x 536.82437pt.
+
+Overfull \hbox (8.27158pt too wide) in paragraph at lines 401--404
+|  [] 
+ []
+
+
+LaTeX Warning: Float too large for page by 4.20496pt on input line 405.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 410--411
+
+ []
+
+
+Overfull \hbox (38.3873pt too wide) in paragraph at lines 413--427
+ [][] 
+ []
+
+
+Overfull \hbox (67.54018pt too wide) in paragraph at lines 429--454
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/volca-boy-draw-page-001.jpg>] [16]
+<timescale.png, id=275, 1665.22125pt x 812.03375pt>
+File: timescale.png Graphic file (type png)
+<use timescale.png>
+Package pdftex.def Info: timescale.png  used on input line 462.
+(pdftex.def)             Requested size: 605.00336pt x 295.02069pt.
+
+Overfull \hbox (55.00336pt too wide) in paragraph at lines 461--463
+[] 
+ []
+
+[17
+
+
+
+ <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/timescale.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
+
+ []
+
+[18
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 292.
- [9]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 292.
+<volca-gb-render.JPG, id=288, 1927.2pt x 1084.05pt>
+File: volca-gb-render.JPG Graphic file (type jpg)
+<use volca-gb-render.JPG>
+Package pdftex.def Info: volca-gb-render.JPG  used on input line 507.
+(pdftex.def)             Requested size: 605.00336pt x 340.30313pt.
+
+Overfull \hbox (55.00336pt too wide) in paragraph at lines 506--508
+[] 
+ []
+
+
+LaTeX Warning: Float too large for page by 29.13646pt on input line 509.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19 <c:/Users/Silvio/OneDrive - Leeds Beckett University/LEEDS/LBU/development/VSCode/latex/lbu/i&i-latex/i&i-proposal/volca-gb-render.JPG>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 516.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 516.
  ("c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 292.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 292.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 516.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 516.
 Package rerunfilecheck Info: File `proposal.out' has not changed.
-(rerunfilecheck)             Checksum: 08064E33C701A7DEF61974553FDA87C0;731.
+(rerunfilecheck)             Checksum: 11AC6237B61862333BFF4A7B158F333B;781.
  ) 
 Here is how much of TeX's memory you used:
- 7174 strings out of 492895
- 108043 string characters out of 3123268
- 225109 words of memory out of 3000000
- 10960 multiletter control sequences out of 15000+200000
- 7847 words of font info for 28 fonts, out of 3000000 for 9000
+ 7262 strings out of 492895
+ 109905 string characters out of 3123268
+ 228954 words of memory out of 3000000
+ 11009 multiletter control sequences out of 15000+200000
+ 8453 words of font info for 30 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,11n,35p,940b,448s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.pdf" (9 pages, 309426 bytes).
+ 28i,13n,35p,940b,484s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti8.pfb><C:/Users/Silvio/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "c:/Users\Silvio\OneDrive - Leeds Beckett University\LEEDS\LBU\development\VSCode\latex\lbu\i&i-latex\i&i-proposal\proposal.pdf" (20 pages, 1566734 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
- 56 named destinations out of 1000 (max. 500000)
- 107 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 352 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
